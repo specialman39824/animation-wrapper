@@ -8,4 +8,17 @@
   </summary>
 
   hi!
+  <details>
+    <summary>
+      hi guys nothing goes wrong is it
+    </summary>
+  
+    hi!
+    <details>
+  <summary>
+    hi guys nothing goes wrong is it
+  </summary>
+
+  hi!
+  </details>
 </details>
