@@ -1,7 +1,6 @@
-### GREETINGS FOLKS! This is what we called
-# Animation Wrapper!
+# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Animation Wrapper
 
-# What is Animation Wrapper?
+What is animation Wrapper?
 
 > [!NOTE]
 > test test test
