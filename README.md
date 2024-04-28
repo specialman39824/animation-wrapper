@@ -3,7 +3,8 @@
 [![File](https://img.shields.io/badge/get-File-blue
 )](https://github.com/specialman39824/test/raw/main/Animation.rbxm)
 
-* A simple to-use script that loads and plays any available animation in any Roblox game without necessitating an upload. The script required KeyframeSequence to load/play animations.
+### What is Animation Wrapper?
+* Animation Wrapper is A simple to-use script that loads and plays any available animation in any Roblox game without necessitating an upload. The script required KeyframeSequence to load/play animations.
 This works both in studio and live. 
 
 > [!NOTE]
