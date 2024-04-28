@@ -30,4 +30,4 @@ animationPlayer:Play()
 
 ## Contributors
 * [Parenthesis](https://twitter.com/ryokayaru) - Wrote the README.md page.
-* [Chivi](https://twitter.com/higuys2040) - Wrote this script.
+* [specialman39824](https://twitter.com/higuys2040) - Wrote this script.
