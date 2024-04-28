@@ -1,15 +1,13 @@
 # <img src="https://github.com/specialman39824/test/blob/main/animationwrapper.png" width="48"/> Animation Wrapper
+[![File](https://img.shields.io/github/downloads/pizzaboxer/bloxstrap/latest/total?color=981bfe)](https://github.com/pizzaboxer/bloxstrap/releases)
 
 A script that loads and plays any available animation in any Roblox game without needing to upload it. The script required KeyframeSequence to load/play animations.
 This works both in studio and live. 
 
-# Key Features
-
-
 > [!NOTE]
 > The animation will be loaded via KeyframeSequence Only.
 
-document:
+# DOCUMENT
 ```lua
 local AnimationWrapper = require(path.to.here)
 
@@ -23,7 +21,3 @@ local AnimationWrapper = require(path.to.here)
 --AnimPlayer:Play()
 --AnimPlayer:Stop()
 ```
-
-<font color='#00ffff'>oops</font>
-
-<p1>WHY ME<p1>
