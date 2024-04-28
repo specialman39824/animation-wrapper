@@ -1,5 +1,5 @@
-# walalalaal
-# HELLO WORLD
+## GREETINGS FOLKS! This is a
+# Animation Wrapper
 
 <font color='#ffffff'>oops</font>
 
