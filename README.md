@@ -9,6 +9,6 @@ A script that loads and plays any available animation in any Roblox game without
 > [!NOTE]
 > The animation will loaded via KeyframeSequence.
 
-<font color='#ffffff'>oops</font>
+<font color='#00ffff'>oops</font>
 
 <p1>WHY ME<p1>
