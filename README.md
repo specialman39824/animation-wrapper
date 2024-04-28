@@ -9,7 +9,7 @@ This works both in studio and live.
 > [!NOTE]
 > The animation will be loaded via KeyframeSequence Only.
 
-# DOCUMENT
+# USAGE
 ```lua
 local AnimationWrapper = require(path.to.here)
 
