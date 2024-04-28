@@ -1,5 +1,5 @@
 # <img src="https://github.com/specialman39824/test/blob/main/animationwrapper.png" width="48"/> Animation Wrapper
-[![File](https://img.shields.io/github/downloads/pizzaboxer/bloxstrap/latest/total?color=981bfe)](https://github.com/pizzaboxer/bloxstrap/releases)
+[![File](https://github.com/specialman39824/test/blob/main/Animation.rbxm)
 
 A script that loads and plays any available animation in any Roblox game without needing to upload it. The script required KeyframeSequence to load/play animations.
 This works both in studio and live. 
