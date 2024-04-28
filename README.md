@@ -25,10 +25,10 @@ animationPlayer:Play()
 --AnimPlayer:Play()
 --AnimPlayer:Stop()
 ```
+# > [!NOTE]
+> The animation will be loaded via KeyframeSequence Only.
+
 
 ## Contributors
 * [Parenthesis](https://twitter.com/ryokayaru) - Wrote the README.md page.
 * [specialman39824](https://twitter.com/higuys2040) - Wrote this script.
-
-> [!NOTE]
-> The animation will be loaded via KeyframeSequence Only.
