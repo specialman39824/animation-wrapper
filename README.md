@@ -1,6 +1,6 @@
 # <img src="https://github.com/specialman39824/test/blob/main/contents/animationwrapper.png" width="48"/> Animation Wrapper
 
-<img src="https://github.com/specialman39824/test/blob/main/contents/file.png" width="48"/> [![File](https://img.shields.io/badge/get-File-blue)](https://github.com/specialman39824/test/raw/main/Animation.rbxm)
+<img src="https://github.com/specialman39824/test/blob/main/contents/file.png" width="24"/> [![File](https://img.shields.io/badge/get-File-blue)](https://github.com/specialman39824/test/raw/main/Animation.rbxm)
 
 ### What is Animation Wrapper?
 * Animation Wrapper is A simple to-use script that loads and plays any available animation in any Roblox game without necessitating an upload. The script required KeyframeSequence to load/play animations.
