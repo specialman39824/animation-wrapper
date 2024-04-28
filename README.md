@@ -7,7 +7,7 @@ A script that loads and plays any available animation in any Roblox game without
 
 
 > [!NOTE]
-> The animation will be loaded via KeyframeSequence.
+> The animation will be loaded via KeyframeSequence Only.
 
 <font color='#00ffff'>oops</font>
 
