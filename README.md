@@ -3,7 +3,7 @@
 [![File](https://img.shields.io/badge/get-File-blue
 )](https://github.com/specialman39824/test/raw/main/Animation.rbxm)
 
-A script that loads and plays any available animation in any Roblox game without needing to upload it. The script required KeyframeSequence to load/play animations.
+* A script that loads and plays any available animation in any Roblox game without needing to upload it. The script required KeyframeSequence to load/play animations.
 This works both in studio and live. 
 
 > [!NOTE]
@@ -27,3 +27,7 @@ animationPlayer:Play()
 --AnimPlayer:Play()
 --AnimPlayer:Stop()
 ```
+
+## Contributors
+* [Parenthesis](https://twitter.com/ryokayaru) - Wrote the README.md page.
+* [Chivi](https://twitter.com/higuys2040) - Wrote this script.
