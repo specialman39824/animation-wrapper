@@ -1,6 +1,7 @@
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Animation Wrapper
 
-What is animation Wrapper?
+# Key Features
+
 
 > [!NOTE]
 > test test test
