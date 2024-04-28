@@ -1,7 +1,7 @@
 # <img src="https://github.com/specialman39824/test/blob/main/contents/animationwrapper.png" width="48"/> Animation Wrapper
 
 [![File](https://img.shields.io/badge/get-File-blue
-)](https://github.com/specialman39824/test/blob/main/Animation.rbxm)
+)](https://github.com/specialman39824/test/raw/main/Animation.rbxm)
 
 A script that loads and plays any available animation in any Roblox game without needing to upload it. The script required KeyframeSequence to load/play animations.
 This works both in studio and live. 
