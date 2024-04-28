@@ -13,6 +13,10 @@ This works both in studio and live.
 ```lua
 local AnimationWrapper = require(path.to.here)
 
+-- Example
+local animationPlayer = AnimationWrapper.load(character, keyframeSequence, true)
+animationPlayer:Play()
+
 --AnimationWrapper.load(char: Model, anim: KeyframeSequence, noCache: boolean?) -> AnimPlayer
 
 --AnimPlayer.Priority (number)
