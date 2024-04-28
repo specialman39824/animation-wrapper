@@ -7,9 +7,6 @@
 * Animation Wrapper is A simple to-use script that loads and plays any available animation in any Roblox game without necessitating an upload. The script required KeyframeSequence to load/play animations.
 This works both in studio and live. 
 
-> [!NOTE]
-> The animation will be loaded via KeyframeSequence Only.
-
 # USAGE:
 ```lua
 local AnimationWrapper = require(path.to.here)
@@ -32,3 +29,6 @@ animationPlayer:Play()
 ## Contributors
 * [Parenthesis](https://twitter.com/ryokayaru) - Wrote the README.md page.
 * [specialman39824](https://twitter.com/higuys2040) - Wrote this script.
+
+> [!NOTE]
+> The animation will be loaded via KeyframeSequence Only.
