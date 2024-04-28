@@ -7,7 +7,7 @@ Similar to CFrame Animations (CFrame:Lerp).
 
 
 > [!NOTE]
-> THE SCRIPT STILL REQUIRES ANIMATION ID TO LOAD!
+> The animation will loaded via KeyframeSequence.
 
 <font color='#ffffff'>oops</font>
 
