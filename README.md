@@ -7,7 +7,7 @@
 This works both in studio and live. 
 
 # USAGE:
-```luau
+```lua
 local AnimationWrapper = require(path.to.here)
 
 -- Example
