@@ -16,9 +16,15 @@ animationPlayer:Play()
 
 --AnimationWrapper.load(char: Model, anim: KeyframeSequence, noCache: boolean?) -> AnimPlayer
 
---AnimPlayer.Priority (number)
---AnimPlayer.Looped (boolean)
---AnimPlayer.Speed (number)
+--AnimPlayer:SetPriority(priority: number)
+--AnimPlayer:GetPriority() -> number
+
+--AnimPlayer:SetLooped(toggle: boolean) -> number
+--AnimPlayer:IsLooped() -> boolean
+
+--AnimPlayer:SetSpeed(speed: number)
+--AnimPlayer:GetSpeed() -> number
+
 --AnimPlayer.UpdateMotor (function, can be overwritten)
 
 --AnimPlayer:Play()
