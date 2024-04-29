@@ -35,7 +35,7 @@ animationPlayer:Play()
 > The animation will be loaded via KeyframeSequence Only.
 
 > [!WARNING]
-> never use this module in production use roblox's animator lollllllllllllllllllllllll
+> never use this module in production use roblox's animator lollllllllllllllllllllllll (specialman39824 wrote this)
 
 
 ## Contributors
