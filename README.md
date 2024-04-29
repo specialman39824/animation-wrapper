@@ -29,6 +29,7 @@ animationPlayer:Play()
 
 --AnimPlayer:Play()
 --AnimPlayer:Stop()
+--AnimPlayer:Destroy()
 ```
 > [!NOTE]
 > The animation will be loaded via KeyframeSequence Only.
